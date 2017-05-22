@@ -13,6 +13,7 @@ public class DuckTest {
 		Duck aDuck=new CDuck("火箭鸭");
 		System.out.println("我是"+aDuck.getName());
 		aDuck.performFly();
+		aDuck.swim();
 		aDuck.performQuack();
 		System.out.println("燃料用光了");
 		aDuck.setFlyBehavior(new FlyBehaviorImpl2());
@@ -23,6 +24,7 @@ public class DuckTest {
 		Duck bDuck=new BDuck("普通鸭");
 		System.out.println("我是"+bDuck.getName());
 		bDuck.performFly();
+		bDuck.swim();
 		bDuck.performQuack();
 	}
 
