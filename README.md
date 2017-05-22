@@ -8,7 +8,7 @@
   <li>在new一只普通鸭测试。 </li>
 </ol>
 <p ><strong>测试截图：</strong><strong> </strong><br />
-  <img src="file:///C|/Users/infi/AppData/Roaming/Adobe/Dreamweaver CS6/zh_CN/OfficeImageTemp/wpsFE62.tmp.jpg" alt="" width="864" height="459" /><strong>&nbsp;</strong></p>
+  <img src="https://github.com/865713661/Duck/blob/master/images/1.png" alt="" width="864" height="459" /><strong>&nbsp;</strong></p>
 <p ><strong>类图：</strong><strong> </strong><br />
-  <img src="file:///C|/Users/infi/AppData/Roaming/Adobe/Dreamweaver CS6/zh_CN/OfficeImageTemp/wpsFE72.tmp.jpg" alt="" width="864" height="428" /><strong>&nbsp;</strong></p>
+  <img src="https://github.com/865713661/Duck/blob/master/images/2.PNG" alt="" width="864" height="428" /><strong>&nbsp;</strong></p>
 </body>
